@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap");
+
+header{
+    display: grid;
+    justify-items: center;
+}
+
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+    font-size: 2vw;
+    font-family: "Poppins";
+    position: fixed;
+    width: 96%;
+    top:2px;
+    z-index: 10;
+    border-radius: 10px;
+}
+
+.NavBar-Dark{
+    border: black solid thick;
+    background: grey;
+}
+.NavBar-Purple{
+    border: darkblue solid thick;
+    background: purple;
+    color: white;
+}
+.NavBar-Light{
+    border: whitesmoke solid thick;
+    background: white;
+    border-radius: 0;
+}
+
+.NavLink, .off, a, span{
+    color: black;
+    flex-grow: 1;
+    cursor: pointer;
+    flex-shrink: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.off{
+    color: darkblue;
+}
+.off:hover{
+    color: lightblue;
+}
+
+h1 {
+    color: white;
+    font-size: 3vw;
+    font-family: "Permanent Marker";
+}
+
+b{
+    color: rgb(188,0,45);
+    font-size: 1.5vw;
+}
+
+.NavLink:hover, #Cart a:hover{
+    color: white;
+    background-color: black;
+}
+
+.mobileOn{
+    display: none;
+}
+
+.NavLink-Purple{
+    color:white;
+    background-color: purple;
+    border-radius: 5px;
+}
+.NavLink-Dark{
+    color:black;
+    background-color: gray;
+    border-radius: 5px;
+}
+.NavLink-Light{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+}
+
+@media (pointer:none),(pointer:coarse) {
+    .mobileOff{
+        display: none;
+    }
+    .mobileOn{
+        display: flex;
+    }
+    a, span{
+        font-size: 1rem;
+    }
+    .dropdown button{
+        align-self: flex-end;
+        color: white;
+        background-color: blue;
+        border:blue solid thick;
+        border-radius: 5px;
+        width: 30vw;
+    }
+    .dropdown-menu{
+        border-radius: 10px;
+        width: 30vw;
+    }
+    .DropDown-Dark{
+        background-color: gray;
+        border: black solid thick;
+    }
+    .DropDown-Light{
+        background-color: white;
+        border: black solid thick;
+    }
+    .DropDown-Purple{
+        background-color: purple;
+        border: black solid thick;
+    }
+}
