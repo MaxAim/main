@@ -1,0 +1,14 @@
+.portfolioItems{
+    width: 20vw;
+    height: 20vw;
+    color: white;
+    flex-grow: 0;
+    border-radius: 1vw;
+    font-size: 2vw;
+    text-align: center;
+    box-shadow: 0vw 0vw 1vw 0.1vw rgb(0 0 0 / 50%);
+}
+
+.portfolioItems-Purple{
+    box-shadow: 0vw 0vw 1vw 0.1vw rgb(255 255 255 / 50%);
+}

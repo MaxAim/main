@@ -21,11 +21,11 @@ header{
 
 .NavBar-Dark{
     border: black solid thick;
-    background: grey;
+    background: rgb(200, 200, 200);
 }
 .NavBar-Purple{
-    border: darkblue solid thick;
-    background: purple;
+    border: rgb(0, 0, 50) solid thick;
+    background: rgb(50, 0, 50);
     color: white;
 }
 .NavBar-Light{
@@ -46,7 +46,7 @@ header{
 }
 
 .off{
-    color: darkblue;
+    color: rgb(0, 0, 50);
 }
 .off:hover{
     color: lightblue;
@@ -74,12 +74,12 @@ b{
 
 .NavLink-Purple{
     color:white;
-    background-color: purple;
+    background-color: rgb(50, 0, 50);
     border-radius: 5px;
 }
 .NavLink-Dark{
     color:black;
-    background-color: gray;
+    background-color: rgb(200, 200, 200);
     border-radius: 5px;
 }
 .NavLink-Light{
@@ -111,7 +111,7 @@ b{
         width: 30vw;
     }
     .DropDown-Dark{
-        background-color: gray;
+        background-color: rgb(200, 200, 200);
         border: black solid thick;
     }
     .DropDown-Light{
@@ -119,7 +119,7 @@ b{
         border: black solid thick;
     }
     .DropDown-Purple{
-        background-color: purple;
+        background-color: rgb(50, 0, 50);
         border: black solid thick;
     }
 }

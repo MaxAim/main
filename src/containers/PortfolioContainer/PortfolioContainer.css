@@ -1,0 +1,7 @@
+.portfolioContainer{
+        display: grid;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 5vw;
+        grid-template-columns: auto auto auto;
+}

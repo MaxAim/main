@@ -1,3 +1,4 @@
+
 import './App.css';
 import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
@@ -10,7 +11,6 @@ function App() {
     <ThemeContext>
       <BrowserRouter>
         <NavBar />
-        <IndexContainer />
         <Switch>
           <Route
             exact
