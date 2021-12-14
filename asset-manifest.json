@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.6046195a.chunk.css",
-    "main.js": "/main/static/js/main.3628af92.chunk.js",
-    "main.js.map": "/main/static/js/main.3628af92.chunk.js.map",
-    "runtime-main.js": "/main/static/js/runtime-main.33e4f615.js",
-    "runtime-main.js.map": "/main/static/js/runtime-main.33e4f615.js.map",
-    "static/js/2.0764a117.chunk.js": "/main/static/js/2.0764a117.chunk.js",
-    "static/js/2.0764a117.chunk.js.map": "/main/static/js/2.0764a117.chunk.js.map",
-    "static/js/3.c54405bc.chunk.js": "/main/static/js/3.c54405bc.chunk.js",
-    "static/js/3.c54405bc.chunk.js.map": "/main/static/js/3.c54405bc.chunk.js.map",
+    "main.css": "/main/static/css/main.4a486a1d.chunk.css",
+    "main.js": "/main/static/js/main.f0b7633b.chunk.js",
+    "main.js.map": "/main/static/js/main.f0b7633b.chunk.js.map",
+    "runtime-main.js": "/main/static/js/runtime-main.45bfbecd.js",
+    "runtime-main.js.map": "/main/static/js/runtime-main.45bfbecd.js.map",
+    "static/js/2.90bf9432.chunk.js": "/main/static/js/2.90bf9432.chunk.js",
+    "static/js/2.90bf9432.chunk.js.map": "/main/static/js/2.90bf9432.chunk.js.map",
+    "static/js/3.c06ac91e.chunk.js": "/main/static/js/3.c06ac91e.chunk.js",
+    "static/js/3.c06ac91e.chunk.js.map": "/main/static/js/3.c06ac91e.chunk.js.map",
     "index.html": "/main/index.html",
-    "static/css/main.6046195a.chunk.css.map": "/main/static/css/main.6046195a.chunk.css.map",
-    "static/js/2.0764a117.chunk.js.LICENSE.txt": "/main/static/js/2.0764a117.chunk.js.LICENSE.txt"
+    "static/css/main.4a486a1d.chunk.css.map": "/main/static/css/main.4a486a1d.chunk.css.map",
+    "static/js/2.90bf9432.chunk.js.LICENSE.txt": "/main/static/js/2.90bf9432.chunk.js.LICENSE.txt",
+    "static/media/Cosechando.783bc2e4.jpg": "/main/static/media/Cosechando.783bc2e4.jpg",
+    "static/media/GaijinJS.783bc2e4.jpg": "/main/static/media/GaijinJS.783bc2e4.jpg",
+    "static/media/GaijinReact.783bc2e4.jpg": "/main/static/media/GaijinReact.783bc2e4.jpg",
+    "static/media/GitHub.783bc2e4.jpg": "/main/static/media/GitHub.783bc2e4.jpg",
+    "static/media/Pasap.783bc2e4.jpg": "/main/static/media/Pasap.783bc2e4.jpg",
+    "static/media/Pokemon.783bc2e4.jpg": "/main/static/media/Pokemon.783bc2e4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.33e4f615.js",
-    "static/js/2.0764a117.chunk.js",
-    "static/css/main.6046195a.chunk.css",
-    "static/js/main.3628af92.chunk.js"
+    "static/js/runtime-main.45bfbecd.js",
+    "static/js/2.90bf9432.chunk.js",
+    "static/css/main.4a486a1d.chunk.css",
+    "static/js/main.f0b7633b.chunk.js"
   ]
 }
