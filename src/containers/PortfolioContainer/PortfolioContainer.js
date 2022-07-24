@@ -1,11 +1,11 @@
 import "./PortfolioContainer.css";
 import PortfolioItems from "../../components/PortfolioItems/PortfolioItems";
-import GaijinReact from "../../img/GaijinReact.jpg";
-import Pokemon from "../../img/Pokemon.jpg";
-import Pasap from "../../img/Pasap.jpg";
-import GaijinJS from "../../img/GaijinJS.jpg";
-import Cosechando from "../../img/Cosechando.jpg";
-import GitHub from "../../img/GitHub.jpg";
+import GaijinReact from "../../img/gaijin-react.png";
+import Pokemon from "../../img/pokemon.png";
+import Pasap from "../../img/pasap.png";
+import GaijinJS from "../../img/gaijin-js.png";
+import Cosechando from "../../img/ca.png";
+import GitHub from "../../img/github.png";
 
 const PortfolioContainer = () => {
     return(

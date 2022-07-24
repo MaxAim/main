@@ -11,19 +11,19 @@ const NavBar = () => {
   return (
     <header>
       <div className={"NavBar NavBar-" + theme + " mobileOff"}>
-        <NavLink to={"/"} className={"NavLink NavLink-" + theme} activeClassName={"off"}>
+        <NavLink to={"/main"} className={"NavLink NavLink-" + theme} activeClassName={"off"}>
           Inicio
         </NavLink>
-        <NavLink to={"/link1"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
+        <NavLink to={"/main/link1"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
           Link1
         </NavLink>
-        <NavLink to={"/link2"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
+        <NavLink to={"/main/link2"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
           Link2
         </NavLink>
-        <NavLink to={"/link3"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
+        <NavLink to={"/main/link3"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
           Link3
         </NavLink>
-        <NavLink to={"/link4"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
+        <NavLink to={"/main/link4"} activeClassName={"off"} className={"NavLink NavLink-" + theme}>
           Link4
         </NavLink>
         <span className={"NavLink-Purple"} onClick={() => handleTheme("Purple")}>Purple theme</span>

@@ -14,7 +14,7 @@ function App() {
         <Switch>
           <Route
             exact
-            path="/"
+            path="/main/"
             component={() => <IndexContainer />}
           />
         </Switch>
