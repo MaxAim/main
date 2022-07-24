@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.4a486a1d.chunk.css",
-    "main.js": "/main/static/js/main.eca2f415.chunk.js",
-    "main.js.map": "/main/static/js/main.eca2f415.chunk.js.map",
+    "main.css": "/main/static/css/main.f9b2094f.chunk.css",
+    "main.js": "/main/static/js/main.b8d7a693.chunk.js",
+    "main.js.map": "/main/static/js/main.b8d7a693.chunk.js.map",
     "runtime-main.js": "/main/static/js/runtime-main.45bfbecd.js",
     "runtime-main.js.map": "/main/static/js/runtime-main.45bfbecd.js.map",
     "static/js/2.90bf9432.chunk.js": "/main/static/js/2.90bf9432.chunk.js",
@@ -10,19 +10,19 @@
     "static/js/3.c06ac91e.chunk.js": "/main/static/js/3.c06ac91e.chunk.js",
     "static/js/3.c06ac91e.chunk.js.map": "/main/static/js/3.c06ac91e.chunk.js.map",
     "index.html": "/main/index.html",
-    "static/css/main.4a486a1d.chunk.css.map": "/main/static/css/main.4a486a1d.chunk.css.map",
+    "static/css/main.f9b2094f.chunk.css.map": "/main/static/css/main.f9b2094f.chunk.css.map",
     "static/js/2.90bf9432.chunk.js.LICENSE.txt": "/main/static/js/2.90bf9432.chunk.js.LICENSE.txt",
-    "static/media/Cosechando.783bc2e4.jpg": "/main/static/media/Cosechando.783bc2e4.jpg",
-    "static/media/GaijinJS.783bc2e4.jpg": "/main/static/media/GaijinJS.783bc2e4.jpg",
-    "static/media/GaijinReact.783bc2e4.jpg": "/main/static/media/GaijinReact.783bc2e4.jpg",
-    "static/media/GitHub.783bc2e4.jpg": "/main/static/media/GitHub.783bc2e4.jpg",
-    "static/media/Pasap.783bc2e4.jpg": "/main/static/media/Pasap.783bc2e4.jpg",
-    "static/media/Pokemon.783bc2e4.jpg": "/main/static/media/Pokemon.783bc2e4.jpg"
+    "static/media/ca.334b2cc2.png": "/main/static/media/ca.334b2cc2.png",
+    "static/media/gaijin-js.36f01860.png": "/main/static/media/gaijin-js.36f01860.png",
+    "static/media/gaijin-react.96a1f208.png": "/main/static/media/gaijin-react.96a1f208.png",
+    "static/media/github.363c6e90.png": "/main/static/media/github.363c6e90.png",
+    "static/media/pasap.78a0f118.png": "/main/static/media/pasap.78a0f118.png",
+    "static/media/pokemon.104d26ba.png": "/main/static/media/pokemon.104d26ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.45bfbecd.js",
     "static/js/2.90bf9432.chunk.js",
-    "static/css/main.4a486a1d.chunk.css",
-    "static/js/main.eca2f415.chunk.js"
+    "static/css/main.f9b2094f.chunk.css",
+    "static/js/main.b8d7a693.chunk.js"
   ]
 }
